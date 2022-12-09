@@ -1,0 +1,13 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                          DZIALANIE PROGRAMU:
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Program służy do zaplanowanie swojego wyjazdu.
+Możemy zobaczyć następujące funkcje w programie:
+- Ustawienia daty wyjazdu oraz powrotu;
+- Obliczyć długość naszego wyjazdu, abyśmy wiedzieli ile dni wolnego wziąć;
+- Zablokowanie wyjazdów przeszłych. Nie możemy zaplanować wyjazdu, który już się odbył. Oczywiście dozwolone jest zaznaczenie wycieczki jednodniowej;
+- Ograniczenie wyjazdu do najbliższych dwóch lat.
+- Wyróżnienie wśród innych dat, dat wyjazdu i dni pomiędzy nimi.
+
+
+
