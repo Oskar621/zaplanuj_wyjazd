@@ -11,6 +11,29 @@ Możemy zobaczyć następujące funkcje w programie:
 
 
 --------------------------------------------------------------------------------------------------------------------
-                                  Dzialanie wykonane przed zaznaczeniem daty:
+                                        Testowanie programu i jego weryfikacja
 --------------------------------------------------------------------------------------------------------------------
-- Program zmienia zakres kalendarza od dnia dzisiejszego do 2 nastepnych lat.
+- Program sam wczytuje dzisiejsza date i blokuje poprzednie dni oraz dni dalszych o 2 lata.
+- Program wyświetla datę wyjazdu/powrotu automatycznie po kliknieciu danego przycisku np. Poczatek Wyjazdu: 2022-12-27
+- Program wylicza różnicę dni pomiędzy powrotem a wyjazdem.
+- Program informuje użytkownika, jeśli wybrał datę powrotu przed datą wyjazdu.
+
+
+--------------------------------------------------------------------------------------------------------------------
+                                          Program nigdy cię nie zawiedzie
+--------------------------------------------------------------------------------------------------------------------
+- Po uruchomieniu programu widzimy aplikacje o nazwie zaplanuj_wyjazd.
+- Program jest prosty, ponieważ składa się tylko z 1 strony.
+- Wyłączenie programu czyści nasze wpisane dane.
+- Minimalne wymagania, aby aplikacja działania.
+- Aplikacja nie posiada animacji wyłączania, tylko odrazu się zamyka.
+
+
+--------------------------------------------------------------------------------------------------------------------
+                                                Funkcjonalnosc
+--------------------------------------------------------------------------------------------------------------------
+- Po uruchomieniu widzimy kalendarz i 2 opisane przyciski pod nim.
+- Program sam wczytuje dzisiejsza date i blokuje poprzednie dni oraz dni dalszych o 2 lata.
+- Program zapisuje w pamięci date wyjazdu i powrotu, przez co wypisuje nam ilość dni naszej wycieczki.
+- Natychmiastowo po wybraniu daty powrotu i daty wyjazdu pokazuje nam się ilość dni naszej wycieczki.
+- Wszystkie nasze wprowadzane dane znikają po wyłączeniu aplikacji.
