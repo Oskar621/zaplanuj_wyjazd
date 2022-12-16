@@ -16,23 +16,7 @@ import java.util.*
 
         kalendarz.minDate = Date().time
         kalendarz.maxDate = Date().time + 63072000000
-        val dateRangePicker =
-            MaterialDatePicker.Builder
-                .dateRangePicker()
-                .setTitleText("Title")
-                .setSelection(
-                    Pair(
-                        MaterialDatePicker.thisMonthInUtcMilliseconds(),
-                        MaterialDatePicker.todayInUtcMilliseconds()
-                    )
-                )
-                .build()
 
-        dateRangePicker.show(childFragmentManager, "tag")
-        dateRangePicker.addOnPositiveButtonClickListener {
-            println(it.first)
-            println(it.second)
 
-        }
     }
 }
