@@ -7,7 +7,6 @@ Możemy zobaczyć następujące funkcje w programie:
 - Obliczyć długość naszego wyjazdu, abyśmy wiedzieli ile dni wolnego wziąć;
 - Zablokowanie wyjazdów przeszłych. Nie możemy zaplanować wyjazdu, który już się odbył. Oczywiście dozwolone jest zaznaczenie wycieczki jednodniowej;
 - Ograniczenie wyjazdu do najbliższych dwóch lat;
-- Wyróżnienie wśród innych dat, dat wyjazdu i dni pomiędzy nimi.
 
 
 --------------------------------------------------------------------------------------------------------------------
