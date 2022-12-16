@@ -27,7 +27,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.279"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/poczWyjButt"
+        app:layout_constraintTop_toBottomOf="@+id/KonWyjButt"
         app:layout_constraintVertical_bias="0.342" />
 
     <TextView
@@ -47,7 +47,7 @@
         app:layout_constraintVertical_bias="1.0" />
 
     <Button
-        android:id="@+id/poczWyjButt"
+        android:id="@+id/KonWyjButt"
         android:layout_width="202dp"
         android:layout_height="58dp"
         android:text="Koniec Wyjazdu"
@@ -92,7 +92,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.766"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/poczWyjButt"
+        app:layout_constraintTop_toBottomOf="@+id/KonWyjButt"
         app:layout_constraintVertical_bias="0.074" />
 
 
