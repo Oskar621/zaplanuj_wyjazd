@@ -19,10 +19,11 @@ Możemy zobaczyć następujące funkcje w programie:
 
 
 --------------------------------------------------------------------------------------------------------------------
-                                          Program nigdy cię nie zawiedzie
+                                                Niezawodność
 --------------------------------------------------------------------------------------------------------------------
 - Po uruchomieniu programu widzimy aplikacje o nazwie zaplanuj_wyjazd.
 - Program jest prosty, ponieważ składa się tylko z 1 strony.
+- Program nie podtrzymuje danych po jego wyłączeniu.
 - Wyłączenie programu czyści nasze wpisane dane.
 - Minimalne wymagania, aby aplikacja działania.
 - Aplikacja nie posiada animacji wyłączania, tylko odrazu się zamyka.
