@@ -33,7 +33,8 @@ Możemy zobaczyć następujące funkcje w programie:
                                                 Funkcjonalnosc
 --------------------------------------------------------------------------------------------------------------------
 - Po uruchomieniu widzimy kalendarz i 2 opisane przyciski pod nim.
-- Program sam wczytuje dzisiejsza date i blokuje poprzednie dni oraz dni dalszych o 2 lata.
+- Program sam wczytuje dzisiejsza date i blokuje poprzednie dni oraz dalsze o 2 lata.
 - Program zapisuje w pamięci date wyjazdu i powrotu, przez co wypisuje nam ilość dni naszej wycieczki.
-- Natychmiastowo po wybraniu daty powrotu i daty wyjazdu pokazuje nam się ilość dni naszej wycieczki.
+- Natychmiastowo po wybraniu daty powrotu i daty wyjazdu pokazuje nam długość naszej wycieczki
 - Wszystkie nasze wprowadzane dane znikają po wyłączeniu aplikacji.
+- Wybrane daty wyświetlane są przy odpowiednich napisach.
